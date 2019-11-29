@@ -6,7 +6,7 @@ namespace finalLab
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Created final Lab");
         }
     }
 }
